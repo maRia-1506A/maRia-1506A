@@ -64,3 +64,26 @@
 </div>
 
 ###
+
+<h3 align="left">🔥 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maRia-1506A&show_icons=true&theme=tokyonight" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maRia-1506A&layout=compact&theme=tokyonight" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maRia-1506A&theme=tokyonight" />
+</div>
+
+---
+
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maRia-1506A/maRia-1506A/output/snake.svg" alt="Snake animation" />
+</div>
+
