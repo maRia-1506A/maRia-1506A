@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h6 align="left">Hi 👋 I’m Maria<br>- 🎓 Software Engineering student passionate about learning and building real-world projects.<br>- 🔭 I’m currently working with C, Java, Python, and beginner-friendly Data Science tools.<br>- 🌱 I’m currently focusing on DSA, SQL, and project-based learning.<br>- ⚡ I believe in learning by building and improving step by step.</h6>
+<h3 align="left">Hi 👋 I’m Maria<br>- 🎓 Software Engineering student passionate about learning and building real-world projects.<br>- 🔭 I’m currently working with C, Java, Python, and beginner-friendly Data Science tools.<br>- 🌱 I’m currently focusing on DSA, SQL, and project-based learning.<br>- ⚡ I believe in learning by building and improving step by step.</h6>
 
 ###
 
@@ -68,22 +68,7 @@
 <h3 align="left">🔥 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maRia-1506A&show_icons=true&theme=tokyonight" height="160" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maRia-1506A&layout=compact&theme=tokyonight" height="160" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=maRia-1506A&theme=tokyonight" />
 </div>
 
 ---
-
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maRia-1506A/maRia-1506A/output/snake.svg" alt="Snake animation" />
-</div>
-
