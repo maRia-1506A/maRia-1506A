@@ -68,11 +68,11 @@
 <h3 align="left">🔥 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maRia-1506A&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maRia-1506A&show_icons=true&theme=tokyonight" height="160" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maRia-1506A&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maRia-1506A&layout=compact&theme=tokyonight" height="160" />
 </div>
 
 <div align="center">
