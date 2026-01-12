@@ -72,3 +72,8 @@
 </div>
 
 ---
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <img src="https://github.com/maRia-1506A/maRia-1506A/blob/output/github-contribution-grid-snake.svg" />
+</div>
